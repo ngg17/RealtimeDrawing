@@ -23,14 +23,14 @@ body
     color: white;
     bottom: 0;
     width: 100%;
-    background-color: grey;
+    background-color: pink;
     line-height: 3;
     text-align: center;
 }
 
 canvas
 {
-    border: 5px solid white;
+    border: 5px solid pink;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 5px 5px 5px black;
 }
